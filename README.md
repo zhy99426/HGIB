@@ -43,17 +43,17 @@ python ./data/preprocess.py
 
 ## 🚀 Getting Started
 
-#### Train HGIB in the `Taobao` dataset
+#### Train HGIB on the `Taobao` dataset
 ```python
 python ./src/main.py --dataset taobao --lr 5e-4 
 ```
 
-#### Train HGIB in the `Tmall` dataset
+#### Train HGIB on the `Tmall` dataset
 ```python
 python ./src/main.py --dataset tmall  --lr 5e-4 
 ```
 
-#### Train HGIB in the `Jdata` dataset
+#### Train HGIB on the `Jdata` dataset
 ```python
 python ./src/main.py --dataset jdata  --lr 5e-4 --alpha 0.5
 ```
