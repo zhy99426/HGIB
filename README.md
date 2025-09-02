@@ -1,7 +1,7 @@
 # Hierarchical Graph Information Bottleneck for Multi-Behavior Recommendation
 This is the official code for [**HGIB** (Hierarchical Graph Information Bottleneck for Multi-Behavior Recommendation)].
 
-> 📝 Under review
+> 📝 RecSys 2025
 
 ## 🔬 Overview
 
