@@ -61,3 +61,18 @@ python ./src/main.py --dataset jdata  --lr 5e-4 --alpha 0.5
 ## ❤️ Acknowledgement
 
 Our code is developed based on [`MuLe`](https://github.com/geonwooko/MULE).
+
+## ✅ Cite our work
+
+```
+@inproceedings{10.1145/3705328.3748073,
+author = {Hengyu Zhang and Chunxu Shen and Xiangguo Sun and Jie Tang and Yanchao Tan and Yu Rong and Hong Cheng and Lingling Yi},
+title = {Hierarchical Graph Information Bottleneck for Multi-Behavior Recommendation},
+publisher = {Association for Computing Machinery},
+url = {https://doi.org/10.1145/3705328.3748073},
+doi = {10.1145/3705328.3748073},
+booktitle = {Proceedings of the Nineteenth ACM Conference on Recommender Systems},
+location = {Prague, Czech Republic},
+series = {RecSys '25},
+year = {2025},
+```
