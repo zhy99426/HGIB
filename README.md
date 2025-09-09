@@ -66,13 +66,18 @@ Our code is developed based on [`MuLe`](https://github.com/geonwooko/MULE).
 
 ```
 @inproceedings{10.1145/3705328.3748073,
-author = {Hengyu Zhang and Chunxu Shen and Xiangguo Sun and Jie Tang and Yanchao Tan and Yu Rong and Hong Cheng and Lingling Yi},
+author = {Zhang, Hengyu and Shen, Chunxu and Sun, Xiangguo and Tan, Jie and Tan, Yanchao and Rong, Yu and Cheng, Hong and Yi, Lingling},
 title = {Hierarchical Graph Information Bottleneck for Multi-Behavior Recommendation},
+year = {2025},
+isbn = {9798400713644},
 publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
 url = {https://doi.org/10.1145/3705328.3748073},
 doi = {10.1145/3705328.3748073},
 booktitle = {Proceedings of the Nineteenth ACM Conference on Recommender Systems},
+pages = {155–164},
+numpages = {10},
 location = {Prague, Czech Republic},
-series = {RecSys '25},
-year = {2025},
+series = {RecSys '25}
+}
 ```
